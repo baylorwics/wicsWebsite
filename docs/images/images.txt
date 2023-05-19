@@ -1,0 +1,1 @@
+Add all images to be used on the website in this folder
